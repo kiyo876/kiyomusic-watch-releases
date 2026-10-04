@@ -3,6 +3,6 @@
   "versionName": "1.0.1",
   "apkUrl": "https://raw.githubusercontent.com/kiyo876/kiyomusic-watch-releases/main/apk/kiyowatch-1.0.1.apk",
   "sha256": "7ac6c831a59c62fd9fb45b97b1cc84e491f2dafc5c573d405930aaab8ab520c3",
-  "notes": "首个正式版: 捐赠页(微信/支付宝收款码可切换)、免费三音源、进度记忆、在线更新",
+  "notes": "刷视频 / 榜单 / 搜索 都能直接点开就听；退出再进，接着上次的位置放。",
   "force": false
 }
