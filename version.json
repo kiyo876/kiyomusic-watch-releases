@@ -1,8 +1,8 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0.0",
-  "apkUrl": "https://raw.githubusercontent.com/kiyo876/kiyomusic-watch-releases/main/apk/kiyowatch-1.0.0.apk",
-  "sha256": "d87b6690c2cdc4f67084e7f1a57e366e31aaef25700d9ac71562f97b7d88e789",
-  "notes": "KiyoWatch 1.0.0: 独立实现, MIT 许可; 新增捐赠入口",
+  "versionCode": 2,
+  "versionName": "1.0.1",
+  "apkUrl": "https://raw.githubusercontent.com/kiyo876/kiyomusic-watch-releases/main/apk/kiyowatch-1.0.1.apk",
+  "sha256": "7ac6c831a59c62fd9fb45b97b1cc84e491f2dafc5c573d405930aaab8ab520c3",
+  "notes": "首个正式版: 捐赠页(微信/支付宝收款码可切换)、免费三音源、进度记忆、在线更新",
   "force": false
 }
