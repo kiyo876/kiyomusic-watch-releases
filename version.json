@@ -1,0 +1,8 @@
+{
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "apkUrl": "https://raw.githubusercontent.com/kiyo876/kiyomusic-watch-releases/main/apk/kiyowatch-1.0.0.apk",
+  "sha256": "d87b6690c2cdc4f67084e7f1a57e366e31aaef25700d9ac71562f97b7d88e789",
+  "notes": "KiyoWatch 1.0.0: 独立实现, MIT 许可; 新增捐赠入口",
+  "force": false
+}
