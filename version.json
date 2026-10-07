@@ -1,8 +1,8 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.1",
-  "apkUrl": "https://raw.githubusercontent.com/kiyo876/kiyomusic-watch-releases/main/apk/kiyowatch-1.0.1.apk",
-  "sha256": "7ac6c831a59c62fd9fb45b97b1cc84e491f2dafc5c573d405930aaab8ab520c3",
-  "notes": "刷视频 / 榜单 / 搜索 都能直接点开就听；退出再进，接着上次的位置放。",
-  "force": false
+    "versionCode":  3,
+    "versionName":  "1.0.2",
+    "apkUrl":  "https://raw.githubusercontent.com/kiyo876/kiyomusic-watch-releases/main/apk/kiyowatch-1.0.2.apk",
+    "sha256":  "622a2aeb153edc8ae922c3d81e93d087138870731cbbebcf2f88d05c08110d38",
+    "notes":  "适配方形表盘；支持 OPPO 手表表冠调音量；列表滚动更跟手；体积缩小三分之一，启动更快",
+    "force":  false
 }
