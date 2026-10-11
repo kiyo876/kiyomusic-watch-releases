@@ -1,8 +1,8 @@
 {
-    "versionCode":  5,
-    "versionName":  "1.0.3",
-    "apkUrl":  "https://raw.githubusercontent.com/kiyo876/kiyomusic-watch-releases/main/apk/kiyowatch-1.0.3.apk",
-    "sha256":  "57ac0882b64cd70f8148d70da7f2dde59ad0f3943a9af3a37bf5da8edaebb773",
-    "notes":  "修好了在线更新：下载线路按实测速度重排，慢线自动放弃，下载过程有进度条和取消；下载时屏幕常亮",
+    "versionCode":  6,
+    "versionName":  "1.0.4",
+    "apkUrl":  "https://raw.githubusercontent.com/kiyo876/kiyomusic-watch-releases/main/apk/kiyowatch-1.0.4.apk",
+    "sha256":  "7f9e92c56a2ef8fe4c0f2dae6d6294ea6b66bcf9b569d0a0c7641e80092d202f",
+    "notes":  "歌单导入大修：支持酷狗概念版等手机端分享链接、短链自动解析；音源文件真假体检，修掉\u0027放 11 秒就停\u0027；播放页进度环可拖动调进度；表冠在两个页面都锁定只调音量",
     "force":  false
 }
