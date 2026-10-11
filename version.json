@@ -1,8 +1,8 @@
 {
-    "versionCode":  4,
+    "versionCode":  5,
     "versionName":  "1.0.3",
     "apkUrl":  "https://raw.githubusercontent.com/kiyo876/kiyomusic-watch-releases/main/apk/kiyowatch-1.0.3.apk",
-    "sha256":  "855be82de13e31d8325a9fea165ac81691576138efcc1857260e7799735e93fc",
-    "notes":  "五个音源推荐各 200 首；搜索容错，少字错字也能搜到；歌单可一键接入并每次打开自动同步；新增免责声明",
+    "sha256":  "57ac0882b64cd70f8148d70da7f2dde59ad0f3943a9af3a37bf5da8edaebb773",
+    "notes":  "修好了在线更新：下载线路按实测速度重排，慢线自动放弃，下载过程有进度条和取消；下载时屏幕常亮",
     "force":  false
 }
