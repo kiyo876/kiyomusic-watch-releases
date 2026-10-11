@@ -1,0 +1,8 @@
+{
+  "apkUrl": "https://raw.githubusercontent.com/kiyo876/kiyomusic-watch-releases/main/apk/kiyowatch-1.0.3.apk",
+  "notes": "隔离测试清单",
+  "sha256": "855be82de13e31d8325a9fea165ac81691576138efcc1857260e7799735e93fc",
+  "versionName": "1.0.99-test",
+  "versionCode": 99,
+  "force": false
+}
